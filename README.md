@@ -6,7 +6,6 @@
 - Audio and Microphone works
 - Ethernet works
 - iCloud, iMessage and another services work
-- Works with pretty much any Zen processor
 - Will this work on macOS Monterey and macOS Ventura?
   - Yes it does if you switch SmallTreeIntel82576.kext with ApplelGB.kext
 
@@ -36,8 +35,8 @@
 - [khronokernel's Vanilla Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
 - [ProperTree](https://github.com/corpnewt/ProperTree)
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
-- [SanityChecker](https://opencore.slowgeek.com/)
 - [AMD Kernel Patches](https://github.com/AMD-OSX/AMD_Vanilla/tree/opencore)
+
 # What's new with this ryzentosh install?
 - Utilizes OpenCore bootloader instead of Clover bootloader.
 - Replaced Ryzen 5 2600X with Ryzen 7 3700X
