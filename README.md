@@ -8,7 +8,7 @@
 - iCloud, iMessage and another services work
 - Works with pretty much any Zen processor
 - Will this work on macOS Monterey?
-  - Yes it does on beta 1 of Monterey
+  - Yes it does if you switch SmallTreeIntel82576.kext with ApplelGB.kext
 
 # Short PC Specifications
 - Radeon RX 5700 XT
