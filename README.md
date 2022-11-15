@@ -7,7 +7,7 @@
 - Ethernet works
 - iCloud, iMessage and another services work
 - Works with pretty much any Zen processor
-- Will this work on macOS Monterey?
+- Will this work on macOS Monterey and macOS Ventura?
   - Yes it does if you switch SmallTreeIntel82576.kext with ApplelGB.kext
 
 # Short PC Specifications
